@@ -6516,9 +6516,9 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important; }
+  margin-bottom: -4rem !important; }
 
-.ml-5,
+.ml-5
 .mx-5 {
   margin-left: 3rem !important; }
 
@@ -9116,7 +9116,7 @@ textarea.form-control {
 /* about us start */
 /* Section Styling */
 .ftco-section {
-  padding: 60px 0;
+  padding: 0px 0 !important;
 }
 
 .ftco-no-pt, .ftco-no-pb {
