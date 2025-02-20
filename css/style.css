@@ -8049,16 +8049,16 @@ h1, h2, h3, h4, h5,
 
 .wrap {
   background: #fff;
-  padding: 25px 0px 0px 0px; }
+  padding: 40px 0px 0px 0px; }
   .wrap .top-wrap .icon {
     width: 44px;
     height: 44px;
     border-radius: 50%;
-    background: #edfff9; }
+     }
     .wrap .top-wrap .icon span {
       color: #01d28e; }
   .wrap .top-wrap .text {
-    padding-left: 15px;
+    padding-left: 5px;
     width: calc(100% - 44px); }
     .wrap .top-wrap .text  {
       display: block; }
@@ -9308,7 +9308,7 @@ ul li .fa-check-circle {
 .counter-box {
   text-align: center;
   animation: slideIn 1.5s ease-in-out;
-  box-shadow: 0 4px 15px rgba(255, 0, 0, 0.8);
+  box-shadow: 0 4px 15px rgba(84 1 1 / 80%);
 }
 
 .counter strong {
